@@ -77,17 +77,24 @@ Edit or delete posts, manage comments and likes.
 
 Access the notifications panel to review new activities.
 5. Advanced Features and Add-ons
+
 A. Media Support:
+
 Upload Images and Videos: How to upload multimedia files and attach them to posts.
 Media Preview: Show a preview of media files before publishing them.
+
 B. Recommendation System:
+
 Suggested Content: How to set up a system for displaying recommended content based on user preferences.
 Recommendation Algorithms: Brief explanation of the algorithms used to provide recommended content.
+
 6. User Support and Troubleshooting
 A. User Support:
+
 FAQ Section: Provide a section for frequently asked questions about using the site.
 Contact Support: How to reach out to the support team for additional help.
 B. Troubleshooting:
+
 Common Issues: List common problems and their solutions, such as registration issues or media upload problems.
 Monitoring Tools: How to use monitoring tools to detect and resolve system errors.
 
