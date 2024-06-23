@@ -46,37 +46,8 @@ Like System:
 
 Like Posts: Users can like posts.
 Like Comments: Users can like comments made by others.
-C. Notification System:
 
 
-3. Setup Instructions
-A. System Requirements:
-Operating System: Ubuntu 20.04 or later.
-Database: MySQL 8.0 or later.
-Web Server: Apache 2.4 or Nginx.
-Programming Language: PHP 7.4 or Python 3.8.
-B. Installing the System on a Server:
-Server Preparation:
-
-Install the appropriate operating system and server software.
-Install MySQL and set up the database.
-Blog Application Installation:
-
-Upload the blog application files to the server.
-Configure files to link to the database.
-Set file permissions and ensure security.
-Security Certificates Setup:
-
-Install SSL/TLS certificates to secure communication between the server and users.
-Configure the server to support secure connections (HTTPS).
-C. Setting Up the Development Environment:
-Tools Installation:
-
-Install necessary tools such as Git and an Integrated Development Environment (IDE) like Visual Studio Code.
-Environment Configuration:
-
-Set up environment variables and link them to the database.
-Set up monitoring and debugging tools for error detection.
 4. Usage Guidelines
 A. How to Create an Account:
 Visit the Registration Page:
